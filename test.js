@@ -7,3 +7,5 @@ test();
 
 var b = 6;
 console.log(b);
+
+console.log(b * b);
