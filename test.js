@@ -4,3 +4,6 @@ function test() {
 }
 
 test();
+
+var b = 6;
+console.log(b);
