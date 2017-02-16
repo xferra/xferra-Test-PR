@@ -5,5 +5,5 @@ function test() {
 
 test();
 
-var b = 6;
-console.log(b);
+var b = 6
+console.log(b)
